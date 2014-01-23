@@ -1,7 +1,11 @@
 wordpress_fetch_images_to_local
 ===============================
 
-This python script will scan all your wordpress post, download all 
+I wrote this python script because some of my old blog posts, which were 
+imported from MSN space still stores the images there. I want to put
+all images in my blog to one place for easier maintance. 
+
+This script will scan all your wordpress post, download all 
 linked images in your posts which are not stored on your blog host
 to your blog media libarary and update the link to point to them. 
 You need to install python-wordpress-xmlrpc 
