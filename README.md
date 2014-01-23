@@ -10,8 +10,11 @@ to run this script.
 You need to edit the following fields in the script before run it.
 
 blog_url = "www.my_blog_address.com"
+
 username = "username"
+
 password = "xxxxxxxx"
+
 number_of_post = 500
 
 
