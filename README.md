@@ -2,9 +2,10 @@ wordpress_fetch_images_to_local
 ===============================
 
 This python script will scan all your wordpress post, download all 
-linked images in your post to local media libarary and update the 
-link to point to the local images. You need to install 
-python-wordpress-xmlrpc (http://python-wordpress-xmlrpc.readthedocs.org )
+linked images in your posts which are not stored on your blog host
+to your blog media libarary and update the link to point to them. 
+You need to install python-wordpress-xmlrpc 
+(http://python-wordpress-xmlrpc.readthedocs.org )
 to run this script.
 
 You need to edit the following fields in the script before run it.
