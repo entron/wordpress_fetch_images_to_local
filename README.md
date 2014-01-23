@@ -14,12 +14,19 @@ username = "username"
 password = "xxxxxxxx"
 number_of_post = 500
 
+
 In case you have no idea how to run a python script you can follow these guides:
+
 For Windows users:
+
 http://docs.python.org/2/faq/windows
+
 For Mac users:
+
 http://docs.python.org/2/using/mac.html
+
 For Linux users:
+
 I bet you can figure it out by yourself eaily:)
 
 
